@@ -4,6 +4,7 @@ their name contains `scrcpy`.**
 
 # scrcpy (v2.4)
 
+<!--suppress HtmlDeprecatedAttribute -->
 <img src="app/data/icon.svg" width="128" height="128" alt="scrcpy" align="right" />
 
 _pronounced "**scr**een **c**o**py**"_
